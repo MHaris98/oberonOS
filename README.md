@@ -7,7 +7,6 @@ Forked from [Seth Powell](https://github.com/PlayingKarrde)'s theme [prosperoOS]
 
 <details>
   <summary><b>Screenshots</b></summary>
-  <img src="assets/screenshot/home.png"  title="home"/>
   <img src="assets/screenshot/collection.png" title="collections" />
   <img src="assets/screenshot/games.png" title="games" />
 </details>
