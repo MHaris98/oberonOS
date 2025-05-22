@@ -34,6 +34,7 @@ and more...
 - [ ] clean the code...
 - [ ] add a search feature with a virtual keyboard
 - [ ] missing backgrounds/logos for collections
+- [ ] add more aspect ratio support (currently only tested in 16:9)
 
 
 ## Thanks to:
