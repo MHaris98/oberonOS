@@ -9,6 +9,10 @@ Forked from [Seth Powell](https://github.com/PlayingKarrde)'s theme [prosperoOS]
   <summary><b>Screenshots</b></summary>
   <img src="assets/screenshot/collection.png" title="collections" />
   <img src="assets/screenshot/games.png" title="games" />
+  <img src="assets/screenshot/games1.png" title="games" />
+  <img src="assets/screenshot/games2.png" title="games" />
+  <img src="assets/screenshot/gamegrid.png" title="gamegrid" />
+  <img src="assets/screenshot/gamegrid1.png" title="gamegrid" />
 </details>
   
 ***
